@@ -1,4 +1,2 @@
-the two lines below
 #!/bin/bash
-
-
+pwd
